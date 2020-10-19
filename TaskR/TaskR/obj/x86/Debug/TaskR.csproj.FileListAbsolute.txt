@@ -1,0 +1,5 @@
+/home/babos/fosz/cSharpProjektmunka/TaskR/TaskR/obj/x86/Debug/TaskR.csproj.CoreCompileInputs.cache
+/home/babos/fosz/cSharpProjektmunka/TaskR/TaskR/bin/Debug/TaskR.exe
+/home/babos/fosz/cSharpProjektmunka/TaskR/TaskR/bin/Debug/TaskR.pdb
+/home/babos/fosz/cSharpProjektmunka/TaskR/TaskR/obj/x86/Debug/TaskR.exe
+/home/babos/fosz/cSharpProjektmunka/TaskR/TaskR/obj/x86/Debug/TaskR.pdb

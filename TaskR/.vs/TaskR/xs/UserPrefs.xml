@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FE1DF61C-2457-41ED-A9E5-3779C2614F92}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaskR PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskR/CommandResult.cs">
+    <Files>
+      <File FileName="TaskR/Program.cs" Line="4" Column="16" />
+      <File FileName="TaskR/MainWindow.cs" Line="12" Column="16" />
+      <File FileName="TaskR/NewTaskDialog.cs" Line="13" Column="28" />
+      <File FileName="TaskR/Task.cs" Line="1" Column="1" />
+      <File FileName="TaskR/HTTPClient.cs" Line="1" Column="1" />
+      <File FileName="TaskR/CommandResult.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskR" expanded="True">
+            <Node name="TaskR" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="UserInterface" expanded="True" />
+              <Node name="CommandResult.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
